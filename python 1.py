@@ -1,0 +1,11 @@
+#BELAJAR OUTPUT
+print ("nama saya salsabila")
+print ("saya berumur 16 tahun")
+print ("saya suka galau")
+print ("saya suka nangis")
+print ("saya penyuka musik")
+print ("saya suka coklat")
+print ("tkj membuat saya pusing")
+print ("saya sekolah di SMK HARAPAN BANGSA")
+print ("di tkj ini sangat susah")
+print ("tkj sulit dimengerti")
